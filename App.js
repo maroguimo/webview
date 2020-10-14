@@ -33,7 +33,6 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: Constants.statusBarHeight,
     backgroundColor: '#3f51b5',
-    color: '#fff',
     justifyContent: 'center'
   },
 });
