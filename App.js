@@ -12,7 +12,11 @@ export default class App extends Component {
 			<View style={styles.container}>
 				<TouchableWithoutFeedback
 					accessible={false}
-					onLongPress={() => alert("Clique do usuário...")}
+					onLongPress={() =>
+						alert(
+							"Clique do usuário para abrir menu de configuração"
+						)
+					}
 				>
 					<WebView
 						injectedJavaScript={INJECTEDJAVASCRIPT}
