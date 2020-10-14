@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "scaplus",
+    "name": "SCA+",
     "slug": "scaplus",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#3f51b5"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
